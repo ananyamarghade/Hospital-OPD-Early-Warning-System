@@ -56,22 +56,6 @@ ML Model Training (Random Forest)
 Evaluation + Risk Score Export
 ---
 
-## Repository Structure
-
-Hospital-OPD-Early-Warning-System/
-│
-├── main.py
-├── data_loader.py
-├── feature_engineering.py
-├── labeling.py
-├── model.py
-├── evaluation.py
-├── requirements.txt
-└── daily_3day_ahead_risk.csv
-
-
----
-
 ## Features Used
 
 - Daily arrivals
