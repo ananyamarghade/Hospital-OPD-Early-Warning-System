@@ -1,4 +1,4 @@
-# 🏥 Hospital OPD Early Warning System (3-Day Ahead Forecast)
+# Hospital OPD Early Warning System (3-Day Ahead Forecast)
 
 An end-to-end Machine Learning system that predicts **hospital OPD / Emergency Department overload 3 days in advance** using only historical operational data.
 
