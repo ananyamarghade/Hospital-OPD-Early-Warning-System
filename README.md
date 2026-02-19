@@ -42,19 +42,27 @@ ________________________________________________________________________________
 -
   Raw Patient Data
         ↓
+  
   Daily Aggregation
         ↓
+
 Rolling Feature Engineering
         ↓
+
 Overload Definition (Top 10% stress days)
         ↓
+
 3-Day Future Label Creation
         ↓
+
 Time-based Train/Test Split
         ↓
+
 ML Model Training (Random Forest)
         ↓
+
 Evaluation + Risk Score Export
+
 ---
 
 ## Features Used
